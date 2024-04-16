@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Categories on hackctf.com</title>
+        <link>https://www.hackctf.com/categories/</link>
+        <description>Recent content in Categories on hackctf.com</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>Example Person</copyright>
+        <lastBuildDate>Tue, 16 Apr 2024 14:14:01 +0800</lastBuildDate><atom:link href="https://www.hackctf.com/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Test</title>
+        <link>https://www.hackctf.com/categories/test/</link>
+        <pubDate>Tue, 16 Apr 2024 14:14:01 +0800</pubDate>
+        
+        <guid>https://www.hackctf.com/categories/test/</guid>
+        <description>&lt;img src="https://www.hackctf.com/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
+        </item>
+        <item>
+        <title>测试</title>
+        <link>https://www.hackctf.com/categories/%E6%B5%8B%E8%AF%95/</link>
+        <pubDate>Tue, 16 Apr 2024 14:14:01 +0800</pubDate>
+        
+        <guid>https://www.hackctf.com/categories/%E6%B5%8B%E8%AF%95/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>技术</title>
+        <link>https://www.hackctf.com/categories/%E6%8A%80%E6%9C%AF/</link>
+        <pubDate>Tue, 16 Apr 2024 14:14:01 +0800</pubDate>
+        
+        <guid>https://www.hackctf.com/categories/%E6%8A%80%E6%9C%AF/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>树莓派</title>
+        <link>https://www.hackctf.com/categories/%E6%A0%91%E8%8E%93%E6%B4%BE/</link>
+        <pubDate>Tue, 16 Apr 2024 14:14:01 +0800</pubDate>
+        
+        <guid>https://www.hackctf.com/categories/%E6%A0%91%E8%8E%93%E6%B4%BE/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>网络技术</title>
+        <link>https://www.hackctf.com/categories/%E7%BD%91%E7%BB%9C%E6%8A%80%E6%9C%AF/</link>
+        <pubDate>Tue, 16 Apr 2024 14:14:01 +0800</pubDate>
+        
+        <guid>https://www.hackctf.com/categories/%E7%BD%91%E7%BB%9C%E6%8A%80%E6%9C%AF/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Syntax</title>
+        <link>https://www.hackctf.com/categories/syntax/</link>
+        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.hackctf.com/categories/syntax/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Themes</title>
+        <link>https://www.hackctf.com/categories/themes/</link>
+        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.hackctf.com/categories/themes/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Test With Whitespaces</title>
+        <link>https://www.hackctf.com/categories/test-with-whitespaces/</link>
+        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.hackctf.com/categories/test-with-whitespaces/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
