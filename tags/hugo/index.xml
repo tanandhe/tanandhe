@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Hugo on hackctf.com</title>
+        <title>Hugo on hackctf</title>
         <link>https://www.hackctf.com/tags/hugo/</link>
-        <description>Recent content in Hugo on hackctf.com</description>
+        <description>Recent content in Hugo on hackctf</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <copyright>Example Person</copyright>
+        <copyright>Abolo&#39;s</copyright>
         <lastBuildDate>Tue, 16 Apr 2024 17:36:15 +0800</lastBuildDate><atom:link href="https://www.hackctf.com/tags/hugo/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>How_to_create_new_hugo_website</title>
         <link>https://www.hackctf.com/p/how_to_create_new_hugo_website/</link>
@@ -21,6 +21,15 @@
     1.安装hugo程序
 &lt;/h2&gt;&lt;p&gt;github找到hugo的托管网站&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://www.hackctf.com/images/1713260697928.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;
+下载hugo程序，路径添加到系统的环境变量中&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.hackctf.com/images/env.png&#34;
 	
 	
 	
@@ -44,7 +53,7 @@
 &lt;/div&gt;&lt;h2 id=&#34;3安装主题&#34;&gt;
     &lt;a href=&#34;#3%e5%ae%89%e8%a3%85%e4%b8%bb%e9%a2%98&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
     3.安装主题
-&lt;/h2&gt;&lt;p&gt;本博客选择的是&lt;a class=&#34;link&#34; href=&#34;https://github.com/CaiJimmy/hugo-theme-stack&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+&lt;/h2&gt;&lt;p&gt;本博客选择的主题是&lt;a class=&#34;link&#34; href=&#34;https://github.com/CaiJimmy/hugo-theme-stack&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;CaiJimmy/hugo-theme-stack: Card-style Hugo theme designed for bloggers (github.com)&lt;/a&gt;&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;

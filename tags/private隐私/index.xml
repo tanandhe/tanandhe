@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Private隐私 on hackctf.com</title>
+        <title>Private隐私 on hackctf</title>
         <link>https://www.hackctf.com/tags/private%E9%9A%90%E7%A7%81/</link>
-        <description>Recent content in Private隐私 on hackctf.com</description>
+        <description>Recent content in Private隐私 on hackctf</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <copyright>Example Person</copyright>
+        <copyright>Abolo&#39;s</copyright>
         <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://www.hackctf.com/tags/private%E9%9A%90%E7%A7%81/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Rich Content</title>
         <link>https://www.hackctf.com/p/rich-content/</link>

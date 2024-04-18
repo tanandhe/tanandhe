@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Tags on hackctf.com</title>
+        <title>Tags on hackctf</title>
         <link>https://www.hackctf.com/tags/</link>
-        <description>Recent content in Tags on hackctf.com</description>
+        <description>Recent content in Tags on hackctf</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <copyright>Example Person</copyright>
+        <copyright>Abolo&#39;s</copyright>
         <lastBuildDate>Tue, 16 Apr 2024 17:36:15 +0800</lastBuildDate><atom:link href="https://www.hackctf.com/tags/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Hugo</title>
         <link>https://www.hackctf.com/tags/hugo/</link>
@@ -29,30 +29,6 @@
         <pubDate>Tue, 16 Apr 2024 16:58:29 +0800</pubDate>
         
         <guid>https://www.hackctf.com/tags/%E7%BD%91%E7%AB%99/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>CAD电子电路</title>
-        <link>https://www.hackctf.com/tags/cad%E7%94%B5%E5%AD%90%E7%94%B5%E8%B7%AF/</link>
-        <pubDate>Tue, 16 Apr 2024 14:14:01 +0800</pubDate>
-        
-        <guid>https://www.hackctf.com/tags/cad%E7%94%B5%E5%AD%90%E7%94%B5%E8%B7%AF/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Raspberry</title>
-        <link>https://www.hackctf.com/tags/raspberry/</link>
-        <pubDate>Tue, 16 Apr 2024 14:14:01 +0800</pubDate>
-        
-        <guid>https://www.hackctf.com/tags/raspberry/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Study</title>
-        <link>https://www.hackctf.com/tags/study/</link>
-        <pubDate>Tue, 16 Apr 2024 14:14:01 +0800</pubDate>
-        
-        <guid>https://www.hackctf.com/tags/study/</guid>
         <description></description>
         </item>
         <item>
