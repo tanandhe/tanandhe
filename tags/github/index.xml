@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Github on hackctf</title>
-        <link>https://www.hackctf.com/tags/github/</link>
+        <link>http://localhost:1313/tags/github/</link>
         <description>Recent content in Github on hackctf</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Abolo&#39;s</copyright>
-        <lastBuildDate>Tue, 16 Apr 2024 16:58:29 +0800</lastBuildDate><atom:link href="https://www.hackctf.com/tags/github/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 16 Apr 2024 16:58:29 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/github/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>部署hugo静态网站至github pages</title>
-        <link>https://www.hackctf.com/p/%E9%83%A8%E7%BD%B2hugo%E9%9D%99%E6%80%81%E7%BD%91%E7%AB%99%E8%87%B3github-pages/</link>
+        <link>http://localhost:1313/p/%E9%83%A8%E7%BD%B2hugo%E9%9D%99%E6%80%81%E7%BD%91%E7%AB%99%E8%87%B3github-pages/</link>
         <pubDate>Tue, 16 Apr 2024 16:58:29 +0800</pubDate>
         
-        <guid>https://www.hackctf.com/p/%E9%83%A8%E7%BD%B2hugo%E9%9D%99%E6%80%81%E7%BD%91%E7%AB%99%E8%87%B3github-pages/</guid>
+        <guid>http://localhost:1313/p/%E9%83%A8%E7%BD%B2hugo%E9%9D%99%E6%80%81%E7%BD%91%E7%AB%99%E8%87%B3github-pages/</guid>
         <description>&lt;h1 id=&#34;部署hugo的静态网页至github&#34;&gt;
     &lt;a href=&#34;#%e9%83%a8%e7%bd%b2hugo%e7%9a%84%e9%9d%99%e6%80%81%e7%bd%91%e9%a1%b5%e8%87%b3github&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
     部署hugo的静态网页至github
