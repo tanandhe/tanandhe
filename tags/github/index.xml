@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Github on hackctf</title>
-        <link>http://localhost:1313/tags/github/</link>
+        <link>https://www.hackctf.com/tags/github/</link>
         <description>Recent content in Github on hackctf</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Abolo&#39;s</copyright>
-        <lastBuildDate>Thu, 18 Apr 2024 16:27:20 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/github/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 18 Apr 2024 16:27:20 +0800</lastBuildDate><atom:link href="https://www.hackctf.com/tags/github/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>下划线开头的图片在github页面中显示不正常解决方法</title>
-        <link>http://localhost:1313/p/%E4%B8%8B%E5%88%92%E7%BA%BF%E5%BC%80%E5%A4%B4%E7%9A%84%E5%9B%BE%E7%89%87%E5%9C%A8github%E9%A1%B5%E9%9D%A2%E4%B8%AD%E6%98%BE%E7%A4%BA%E4%B8%8D%E6%AD%A3%E5%B8%B8%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/</link>
+        <link>https://www.hackctf.com/p/%E4%B8%8B%E5%88%92%E7%BA%BF%E5%BC%80%E5%A4%B4%E7%9A%84%E5%9B%BE%E7%89%87%E5%9C%A8github%E9%A1%B5%E9%9D%A2%E4%B8%AD%E6%98%BE%E7%A4%BA%E4%B8%8D%E6%AD%A3%E5%B8%B8%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/</link>
         <pubDate>Thu, 18 Apr 2024 16:27:20 +0800</pubDate>
         
-        <guid>http://localhost:1313/p/%E4%B8%8B%E5%88%92%E7%BA%BF%E5%BC%80%E5%A4%B4%E7%9A%84%E5%9B%BE%E7%89%87%E5%9C%A8github%E9%A1%B5%E9%9D%A2%E4%B8%AD%E6%98%BE%E7%A4%BA%E4%B8%8D%E6%AD%A3%E5%B8%B8%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/</guid>
+        <guid>https://www.hackctf.com/p/%E4%B8%8B%E5%88%92%E7%BA%BF%E5%BC%80%E5%A4%B4%E7%9A%84%E5%9B%BE%E7%89%87%E5%9C%A8github%E9%A1%B5%E9%9D%A2%E4%B8%AD%E6%98%BE%E7%A4%BA%E4%B8%8D%E6%AD%A3%E5%B8%B8%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/</guid>
         <description>&lt;h2 id=&#34;github-pages-不能识别下划线开头的文件&#34;&gt;
     &lt;a href=&#34;#github-pages-%e4%b8%8d%e8%83%bd%e8%af%86%e5%88%ab%e4%b8%8b%e5%88%92%e7%ba%bf%e5%bc%80%e5%a4%b4%e7%9a%84%e6%96%87%e4%bb%b6&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
     github pages 不能识别下划线开头的文件
 &lt;/h2&gt;&lt;blockquote&gt;
-&lt;p&gt;使用sphinx创建的文档，资源文件夹前面会带着下划线，本地使用没有问题，提交到github上面，想使用github pages的时候提示404，原因为github pages的jekyll模版会忽略下划线开头的文件，所以要禁用jekyll 禁用方法就是在项目根目录下添加一个空白文件，命名为：.nojekyll&lt;/p&gt;
+&lt;p&gt;使用sphinx创建的文档，资源文件夹前面会带着下划线，本地使用没有问题，提交到github上面，想使用github pages的时候提示404，原因为github pages的jekyll模版会忽略下划线开头的文件，所以要禁用jekyll 禁用方法就是在项目根目录下添加一个空白文件，命名为：&lt;mark&gt;.nojekyll&lt;/mark&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
         </item>
         <item>
         <title>部署hugo静态网站至github pages</title>
-        <link>http://localhost:1313/p/%E9%83%A8%E7%BD%B2hugo%E9%9D%99%E6%80%81%E7%BD%91%E7%AB%99%E8%87%B3github-pages/</link>
+        <link>https://www.hackctf.com/p/%E9%83%A8%E7%BD%B2hugo%E9%9D%99%E6%80%81%E7%BD%91%E7%AB%99%E8%87%B3github-pages/</link>
         <pubDate>Tue, 16 Apr 2024 16:58:29 +0800</pubDate>
         
-        <guid>http://localhost:1313/p/%E9%83%A8%E7%BD%B2hugo%E9%9D%99%E6%80%81%E7%BD%91%E7%AB%99%E8%87%B3github-pages/</guid>
+        <guid>https://www.hackctf.com/p/%E9%83%A8%E7%BD%B2hugo%E9%9D%99%E6%80%81%E7%BD%91%E7%AB%99%E8%87%B3github-pages/</guid>
         <description>&lt;h1 id=&#34;部署hugo的静态网页至github&#34;&gt;
     &lt;a href=&#34;#%e9%83%a8%e7%bd%b2hugo%e7%9a%84%e9%9d%99%e6%80%81%e7%bd%91%e9%a1%b5%e8%87%b3github&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
     部署hugo的静态网页至github

@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>hackctf</title>
-        <link>http://localhost:1313/</link>
+        <link>https://www.hackctf.com/</link>
         <description>Recent content on hackctf</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Abolo&#39;s</copyright>
-        <lastBuildDate>Thu, 18 Apr 2024 16:27:20 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 18 Apr 2024 16:27:20 +0800</lastBuildDate><atom:link href="https://www.hackctf.com/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>下划线开头的图片在github页面中显示不正常解决方法</title>
-        <link>http://localhost:1313/p/%E4%B8%8B%E5%88%92%E7%BA%BF%E5%BC%80%E5%A4%B4%E7%9A%84%E5%9B%BE%E7%89%87%E5%9C%A8github%E9%A1%B5%E9%9D%A2%E4%B8%AD%E6%98%BE%E7%A4%BA%E4%B8%8D%E6%AD%A3%E5%B8%B8%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/</link>
+        <link>https://www.hackctf.com/p/%E4%B8%8B%E5%88%92%E7%BA%BF%E5%BC%80%E5%A4%B4%E7%9A%84%E5%9B%BE%E7%89%87%E5%9C%A8github%E9%A1%B5%E9%9D%A2%E4%B8%AD%E6%98%BE%E7%A4%BA%E4%B8%8D%E6%AD%A3%E5%B8%B8%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/</link>
         <pubDate>Thu, 18 Apr 2024 16:27:20 +0800</pubDate>
         
-        <guid>http://localhost:1313/p/%E4%B8%8B%E5%88%92%E7%BA%BF%E5%BC%80%E5%A4%B4%E7%9A%84%E5%9B%BE%E7%89%87%E5%9C%A8github%E9%A1%B5%E9%9D%A2%E4%B8%AD%E6%98%BE%E7%A4%BA%E4%B8%8D%E6%AD%A3%E5%B8%B8%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/</guid>
+        <guid>https://www.hackctf.com/p/%E4%B8%8B%E5%88%92%E7%BA%BF%E5%BC%80%E5%A4%B4%E7%9A%84%E5%9B%BE%E7%89%87%E5%9C%A8github%E9%A1%B5%E9%9D%A2%E4%B8%AD%E6%98%BE%E7%A4%BA%E4%B8%8D%E6%AD%A3%E5%B8%B8%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/</guid>
         <description>&lt;h2 id=&#34;github-pages-不能识别下划线开头的文件&#34;&gt;
     &lt;a href=&#34;#github-pages-%e4%b8%8d%e8%83%bd%e8%af%86%e5%88%ab%e4%b8%8b%e5%88%92%e7%ba%bf%e5%bc%80%e5%a4%b4%e7%9a%84%e6%96%87%e4%bb%b6&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
     github pages 不能识别下划线开头的文件
 &lt;/h2&gt;&lt;blockquote&gt;
-&lt;p&gt;使用sphinx创建的文档，资源文件夹前面会带着下划线，本地使用没有问题，提交到github上面，想使用github pages的时候提示404，原因为github pages的jekyll模版会忽略下划线开头的文件，所以要禁用jekyll 禁用方法就是在项目根目录下添加一个空白文件，命名为：.nojekyll&lt;/p&gt;
+&lt;p&gt;使用sphinx创建的文档，资源文件夹前面会带着下划线，本地使用没有问题，提交到github上面，想使用github pages的时候提示404，原因为github pages的jekyll模版会忽略下划线开头的文件，所以要禁用jekyll 禁用方法就是在项目根目录下添加一个空白文件，命名为：&lt;mark&gt;.nojekyll&lt;/mark&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
         </item>
         <item>
         <title>常用docker配置</title>
-        <link>http://localhost:1313/p/%E5%B8%B8%E7%94%A8docker%E9%85%8D%E7%BD%AE/</link>
+        <link>https://www.hackctf.com/p/%E5%B8%B8%E7%94%A8docker%E9%85%8D%E7%BD%AE/</link>
         <pubDate>Thu, 18 Apr 2024 13:59:43 +0800</pubDate>
         
-        <guid>http://localhost:1313/p/%E5%B8%B8%E7%94%A8docker%E9%85%8D%E7%BD%AE/</guid>
+        <guid>https://www.hackctf.com/p/%E5%B8%B8%E7%94%A8docker%E9%85%8D%E7%BD%AE/</guid>
         <description>&lt;h1 id=&#34;常用docker配置安装&#34;&gt;
     &lt;a href=&#34;#%e5%b8%b8%e7%94%a8docker%e9%85%8d%e7%bd%ae%e5%ae%89%e8%a3%85&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
     常用docker配置安装
@@ -36,7 +36,7 @@
 &lt;/h2&gt;&lt;h3 id=&#34;11-搜索portainer&#34;&gt;
     &lt;a href=&#34;#11-%e6%90%9c%e7%b4%a2portainer&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
     1.1 搜索portainer
-&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/1708563397811.png&#34;
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://www.hackctf.com/images/1708563397811.png&#34;
 	
 	
 	
@@ -49,7 +49,7 @@
 &lt;h3 id=&#34;12-拉取容器镜像&#34;&gt;
     &lt;a href=&#34;#12-%e6%8b%89%e5%8f%96%e5%ae%b9%e5%99%a8%e9%95%9c%e5%83%8f&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
     1.2 拉取容器镜像
-&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/1708563458494.png&#34;
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://www.hackctf.com/images/1708563458494.png&#34;
 	
 	
 	
@@ -70,7 +70,7 @@
 &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-gdscript3&#34; data-lang=&#34;gdscript3&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;docker&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;run&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;d&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;p&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;9000&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;9000&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;v&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;k&#34;&gt;var&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;run&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;docker&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;sock&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;k&#34;&gt;var&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;run&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;docker&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;sock&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;v&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;home&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;abolo&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;docker&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;portainer&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;data&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;--&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;restart&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;always&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;--&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;name&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;portainer&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;portainer&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;portainer&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;ce&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;latest&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/1708563732602.png&#34;
+&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://www.hackctf.com/images/1708563732602.png&#34;
 	
 	
 	
@@ -83,7 +83,7 @@
 &lt;h3 id=&#34;14首次登录设置用户名密码&#34;&gt;
     &lt;a href=&#34;#14%e9%a6%96%e6%ac%a1%e7%99%bb%e5%bd%95%e8%ae%be%e7%bd%ae%e7%94%a8%e6%88%b7%e5%90%8d%e5%af%86%e7%a0%81&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
     1.4首次登录设置用户名密码
-&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/1708563773377.png&#34;
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://www.hackctf.com/images/1708563773377.png&#34;
 	
 	
 	
@@ -107,7 +107,7 @@
 &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;docker search node-red
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/1708564059851.png&#34;
+&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://www.hackctf.com/images/1708564059851.png&#34;
 	
 	
 	
@@ -128,7 +128,7 @@
 &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;docker pull nodered/node-red
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/1708564116213.png&#34;
+&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://www.hackctf.com/images/1708564116213.png&#34;
 	
 	
 	
@@ -149,7 +149,7 @@
 &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;docker run -d -p 1880:1880/tcp -v /home/abolo/docker/node_red:/data --name nodered nodered/node-red:latest
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/1708564258817.png&#34;
+&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://www.hackctf.com/images/1708564258817.png&#34;
 	
 	
 	
@@ -173,7 +173,7 @@
 &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;docker
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/1708564485498.png&#34;
+&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://www.hackctf.com/images/1708564485498.png&#34;
 	
 	
 	
@@ -198,7 +198,7 @@
     &lt;a href=&#34;#25%e5%ae%89%e8%a3%85homeassistant%e5%8c%85&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
     2.5安装homeassistant包
 &lt;/h3&gt;&lt;p&gt;节点管理&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/1708564545153.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://www.hackctf.com/images/1708564545153.png&#34;
 	
 	
 	
@@ -209,7 +209,7 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;搜索homeassistant的功能包&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/1708564639773.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://www.hackctf.com/images/1708564639773.png&#34;
 	
 	
 	
@@ -220,7 +220,7 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;安装后重启docker，面板首页出现homeassistant功能模块&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/1708564732665.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://www.hackctf.com/images/1708564732665.png&#34;
 	
 	
 	
@@ -236,7 +236,7 @@
 &lt;/h2&gt;&lt;h3 id=&#34;31搜索容器镜像&#34;&gt;
     &lt;a href=&#34;#31%e6%90%9c%e7%b4%a2%e5%ae%b9%e5%99%a8%e9%95%9c%e5%83%8f&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
     3.1搜索容器镜像
-&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/1708564946237.png&#34;
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://www.hackctf.com/images/1708564946237.png&#34;
 	
 	
 	
@@ -249,7 +249,7 @@
 &lt;h3 id=&#34;32拉取容器&#34;&gt;
     &lt;a href=&#34;#32%e6%8b%89%e5%8f%96%e5%ae%b9%e5%99%a8&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
     3.2拉取容器
-&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/1708565018478.png&#34;
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://www.hackctf.com/images/1708565018478.png&#34;
 	
 	
 	
@@ -270,7 +270,7 @@
 &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;docker run -d --name emqx -p 1883:1883 -p 8083:8083 -p 8084:8084 -p 8883:8883 -p 18083:18083 emqx/emqx
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/1708565063448.png&#34;
+&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://www.hackctf.com/images/1708565063448.png&#34;
 	
 	
 	
@@ -285,7 +285,7 @@
     3.4访问容器
 &lt;/h3&gt;&lt;p&gt;管理页面端口：18083&lt;/p&gt;
 &lt;p&gt;默认的用户名密码： admin   public&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/1708565126318.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://www.hackctf.com/images/1708565126318.png&#34;
 	
 	
 	
@@ -298,7 +298,7 @@
 &lt;h3 id=&#34;35设置客户端认证&#34;&gt;
     &lt;a href=&#34;#35%e8%ae%be%e7%bd%ae%e5%ae%a2%e6%88%b7%e7%ab%af%e8%ae%a4%e8%af%81&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
     3.5设置客户端认证
-&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/1708565256287.png&#34;
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://www.hackctf.com/images/1708565256287.png&#34;
 	
 	
 	
@@ -308,7 +308,7 @@
 	
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/1708565374815.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://www.hackctf.com/images/1708565374815.png&#34;
 	
 	
 	
@@ -321,7 +321,7 @@
 &lt;h3 id=&#34;36添加用户&#34;&gt;
     &lt;a href=&#34;#36%e6%b7%bb%e5%8a%a0%e7%94%a8%e6%88%b7&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
     3.6添加用户
-&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/1708565421210.png&#34;
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://www.hackctf.com/images/1708565421210.png&#34;
 	
 	
 	
@@ -334,7 +334,7 @@
 &lt;h3 id=&#34;37客户端连接测试&#34;&gt;
     &lt;a href=&#34;#37%e5%ae%a2%e6%88%b7%e7%ab%af%e8%bf%9e%e6%8e%a5%e6%b5%8b%e8%af%95&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
     3.7客户端连接测试
-&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/1708565509161.png&#34;
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://www.hackctf.com/images/1708565509161.png&#34;
 	
 	
 	
@@ -350,7 +350,7 @@
 &lt;/h2&gt;&lt;h3 id=&#34;41搜索镜像&#34;&gt;
     &lt;a href=&#34;#41%e6%90%9c%e7%b4%a2%e9%95%9c%e5%83%8f&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
     4.1搜索镜像
-&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/1708565669721.png&#34;
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://www.hackctf.com/images/1708565669721.png&#34;
 	
 	
 	
@@ -363,7 +363,7 @@
 &lt;h3 id=&#34;42拉取镜像&#34;&gt;
     &lt;a href=&#34;#42%e6%8b%89%e5%8f%96%e9%95%9c%e5%83%8f&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
     4.2拉取镜像
-&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/1708565921178.png&#34;
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://www.hackctf.com/images/1708565921178.png&#34;
 	
 	
 	
@@ -396,7 +396,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;homeassistant/home-assistant:latest
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/1708565998683.png&#34;
+&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://www.hackctf.com/images/1708565998683.png&#34;
 	
 	
 	
@@ -410,7 +410,7 @@
     &lt;a href=&#34;#44%e9%a6%96%e6%ac%a1%e8%ae%bf%e9%97%ae&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
     4.4首次访问
 &lt;/h3&gt;&lt;p&gt;默认端口：8123&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/1708566061491.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://www.hackctf.com/images/1708566061491.png&#34;
 	
 	
 	
@@ -421,7 +421,7 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;设置用户名密码，进入系统&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/1708566268350.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://www.hackctf.com/images/1708566268350.png&#34;
 	
 	
 	
@@ -445,7 +445,7 @@
 &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;https://github.com/hacs/integration/releases/
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/1708567165675.png&#34;
+&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://www.hackctf.com/images/1708567165675.png&#34;
 	
 	
 	
@@ -459,7 +459,7 @@
     &lt;a href=&#34;#452-%e4%b8%8a%e4%bc%a0hacszip%e8%87%b3configcustom_componentshacs%e7%9b%ae%e5%bd%95%e5%b9%b6%e8%a7%a3%e5%8e%8b&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
     4.5.2 上传hacs.zip至config/custom_components/hacs目录，并解压
 &lt;/h4&gt;&lt;p&gt;unzip hacs.zip&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/1708567242213.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://www.hackctf.com/images/1708567242213.png&#34;
 	
 	
 	
@@ -472,7 +472,7 @@
 &lt;h4 id=&#34;453重新启动homeassistant&#34;&gt;
     &lt;a href=&#34;#453%e9%87%8d%e6%96%b0%e5%90%af%e5%8a%a8homeassistant&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
     4.5.3重新启动homeassistant
-&lt;/h4&gt;&lt;p&gt;打开集成添加hacs&lt;img src=&#34;http://localhost:1313/images/1708567735763.png&#34;
+&lt;/h4&gt;&lt;p&gt;打开集成添加hacs&lt;img src=&#34;https://www.hackctf.com/images/1708567735763.png&#34;
 	
 	
 	
@@ -483,7 +483,7 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;打开github输入设备码&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/1708567805573.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://www.hackctf.com/images/1708567805573.png&#34;
 	
 	
 	
@@ -494,7 +494,7 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;此处可能需要翻墙，保证github可达，安装成功&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/1708568148085.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://www.hackctf.com/images/1708568148085.png&#34;
 	
 	
 	
@@ -513,7 +513,7 @@
 &lt;/h3&gt;&lt;h3 id=&#34;52修改motion配置&#34;&gt;
     &lt;a href=&#34;#52%e4%bf%ae%e6%94%b9motion%e9%85%8d%e7%bd%ae&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
     5.2修改motion配置
-&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/1708591797207.png&#34;
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://www.hackctf.com/images/1708591797207.png&#34;
 	
 	
 	
@@ -532,7 +532,7 @@
 &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;stream_maxrate 15
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/1708592858708.png&#34;
+&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://www.hackctf.com/images/1708592858708.png&#34;
 	
 	
 	
@@ -543,7 +543,7 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;如果不存在改设置项，可以通过管理也页面生成完整当前配置选项&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/1708592981264.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://www.hackctf.com/images/1708592981264.png&#34;
 	
 	
 	
@@ -554,7 +554,7 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;配置motion的视频存储位置&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/1708593033896.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://www.hackctf.com/images/1708593033896.png&#34;
 	
 	
 	
@@ -571,10 +571,10 @@
         </item>
         <item>
         <title>如何使用hugo制作个人静态网站</title>
-        <link>http://localhost:1313/p/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8hugo%E5%88%B6%E4%BD%9C%E4%B8%AA%E4%BA%BA%E9%9D%99%E6%80%81%E7%BD%91%E7%AB%99/</link>
+        <link>https://www.hackctf.com/p/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8hugo%E5%88%B6%E4%BD%9C%E4%B8%AA%E4%BA%BA%E9%9D%99%E6%80%81%E7%BD%91%E7%AB%99/</link>
         <pubDate>Tue, 16 Apr 2024 17:36:15 +0800</pubDate>
         
-        <guid>http://localhost:1313/p/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8hugo%E5%88%B6%E4%BD%9C%E4%B8%AA%E4%BA%BA%E9%9D%99%E6%80%81%E7%BD%91%E7%AB%99/</guid>
+        <guid>https://www.hackctf.com/p/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8hugo%E5%88%B6%E4%BD%9C%E4%B8%AA%E4%BA%BA%E9%9D%99%E6%80%81%E7%BD%91%E7%AB%99/</guid>
         <description>&lt;h1 id=&#34;如何使用hugo建立自己的个人网站&#34;&gt;
     &lt;a href=&#34;#%e5%a6%82%e4%bd%95%e4%bd%bf%e7%94%a8hugo%e5%bb%ba%e7%ab%8b%e8%87%aa%e5%b7%b1%e7%9a%84%e4%b8%aa%e4%ba%ba%e7%bd%91%e7%ab%99&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
     如何使用hugo建立自己的个人网站
@@ -582,7 +582,7 @@
     &lt;a href=&#34;#1%e5%ae%89%e8%a3%85hugo%e7%a8%8b%e5%ba%8f&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
     1.安装hugo程序
 &lt;/h2&gt;&lt;p&gt;github找到hugo的托管网站&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/1713260697928.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://www.hackctf.com/images/1713260697928.png&#34;
 	
 	
 	
@@ -591,7 +591,7 @@
 	
 &gt;
 下载hugo程序，路径添加到系统的环境变量中&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/env.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://www.hackctf.com/images/env.png&#34;
 	
 	
 	
@@ -626,7 +626,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;下载主题至hugo网站的themes文件夹&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/1713322950386.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://www.hackctf.com/images/1713322950386.png&#34;
 	
 	
 	
@@ -650,7 +650,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;hugo server //启动本地服务，默认是本机1313端口，访问连接：http://127.0.0.1:1313
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/1713323081060.png&#34;
+&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://www.hackctf.com/images/1713323081060.png&#34;
 	
 	
 	
@@ -664,10 +664,10 @@
         </item>
         <item>
         <title>部署hugo静态网站至github pages</title>
-        <link>http://localhost:1313/p/%E9%83%A8%E7%BD%B2hugo%E9%9D%99%E6%80%81%E7%BD%91%E7%AB%99%E8%87%B3github-pages/</link>
+        <link>https://www.hackctf.com/p/%E9%83%A8%E7%BD%B2hugo%E9%9D%99%E6%80%81%E7%BD%91%E7%AB%99%E8%87%B3github-pages/</link>
         <pubDate>Tue, 16 Apr 2024 16:58:29 +0800</pubDate>
         
-        <guid>http://localhost:1313/p/%E9%83%A8%E7%BD%B2hugo%E9%9D%99%E6%80%81%E7%BD%91%E7%AB%99%E8%87%B3github-pages/</guid>
+        <guid>https://www.hackctf.com/p/%E9%83%A8%E7%BD%B2hugo%E9%9D%99%E6%80%81%E7%BD%91%E7%AB%99%E8%87%B3github-pages/</guid>
         <description>&lt;h1 id=&#34;部署hugo的静态网页至github&#34;&gt;
     &lt;a href=&#34;#%e9%83%a8%e7%bd%b2hugo%e7%9a%84%e9%9d%99%e6%80%81%e7%bd%91%e9%a1%b5%e8%87%b3github&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
     部署hugo的静态网页至github
@@ -713,18 +713,18 @@
         </item>
         <item>
         <title>归档</title>
-        <link>http://localhost:1313/archives/</link>
+        <link>https://www.hackctf.com/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/archives/</guid>
+        <guid>https://www.hackctf.com/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>Links</title>
-        <link>http://localhost:1313/links/</link>
+        <link>https://www.hackctf.com/links/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/links/</guid>
+        <guid>https://www.hackctf.com/links/</guid>
         <description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
 &lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
@@ -755,21 +755,75 @@
 </description>
         </item>
         <item>
-        <title>关于我</title>
-        <link>http://localhost:1313/%E5%85%B3%E4%BA%8E%E6%88%91/</link>
+        <title>测试页面</title>
+        <link>https://www.hackctf.com/test/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/%E5%85%B3%E4%BA%8E%E6%88%91/</guid>
-        <description>&lt;p&gt;This is a test page for i18n support.
-&lt;/br&gt;&lt;/p&gt;
+        <guid>https://www.hackctf.com/test/</guid>
+        <description>&lt;p&gt;this is a test page&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>关于我</title>
+        <link>https://www.hackctf.com/%E5%85%B3%E4%BA%8E%E6%88%91/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.hackctf.com/%E5%85%B3%E4%BA%8E%E6%88%91/</guid>
+        <description>&lt;h2 id=&#34;个人简介&#34;&gt;
+    &lt;a href=&#34;#%e4%b8%aa%e4%ba%ba%e7%ae%80%e4%bb%8b&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    个人简介
+&lt;/h2&gt;&lt;p&gt;网名“&lt;mark&gt;Abolo&lt;/mark&gt;”，1985年生于内蒙古巴彦淖尔，小学就读于乌海市海南区二完小；初中先后就读于海化中学、乌海市第三中学；高中毕业于乌海一中；2008年毕业于内蒙古大学自动化系。曾就职于包头钢铁集团无缝钢管厂自动化部、宁波乐惠自动化。
+&lt;/br&gt;
+现就职于某运营商，从事网络安全相关工作。
+&lt;br&gt;
+获得过&lt;mark&gt;“内蒙古自治区五一劳动奖章”&lt;/mark&gt;、&lt;mark&gt;“内蒙古自治区劳动模范”等荣誉称号&amp;quot;&lt;/mark&gt;，打工这一块我谁也不服。&lt;/p&gt;
+&lt;h2 id=&#34;个人爱好&#34;&gt;
+    &lt;a href=&#34;#%e4%b8%aa%e4%ba%ba%e7%88%b1%e5%a5%bd&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    个人爱好
+&lt;/h2&gt;&lt;p&gt;多年运营商级别大规模路由交换网络维护经验，熟悉计算机网络，能够熟练使用路由器交换机组网;熟悉网络安全相关技术，具备cisp、cisp-pte认证，多次在CTF比赛中获奖；熟悉linux系统的运维；了解web、数据库、中间件、虚拟化等IT技术；了解工控现场的设备和协议；熟悉机器学习、神经网络工作原理；能够使用esp32开发物联网设备；能够用golang、python开发一些简单的工具软件用来提高工作效率；
+喜欢各种鼓捣，不停的学习各种技能，深知离精通差的很多，但是够自己用.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;golang、python、HTML、单片机、数据库、工控、CNC数控机床、3D打印机、树莓派、ESP32、
+激光雕刻、机器学习、神经网络、大预言模型、routeros、Kali、docker、虚拟化、路由交换、
+网络安全、CTF、工控、PLC、fusion360、ArtCAM、Kicad、Blender、linux、攻防、
+homeassistant、node-red、proxmox、vmware、esphome、wireguard&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;我的装备&#34;&gt;
+    &lt;a href=&#34;#%e6%88%91%e7%9a%84%e8%a3%85%e5%a4%87&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    我的装备
+&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;树莓派3、4、5、zero、工业树莓派、NanoPi R2S、Nano NEO 、各种esp32开发板&lt;br&gt;
+3D打印机：Snapmaker3.0 AT&lt;br&gt;
+CNC数控机床：林大夫4060线轨&lt;br&gt;
+电烙铁、螺丝刀&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;与我合作&#34;&gt;
+    &lt;a href=&#34;#%e4%b8%8e%e6%88%91%e5%90%88%e4%bd%9c&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    与我合作
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;1.技术顾问&lt;/li&gt;
+&lt;li&gt;2.电子电路开发&lt;/li&gt;
+&lt;li&gt;3.创业合作&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;只言片语&#34;&gt;
+    &lt;a href=&#34;#%e5%8f%aa%e8%a8%80%e7%89%87%e8%af%ad&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    只言片语
+&lt;/h2&gt;&lt;p&gt;“听过很多道理，依然过不好这一生”，很多道理因该是有道理的，但是却不一定能指导我们生活。
+以下只言片语不是他们的原创，但是影响到我是从他们口中开始的，是我朴素的世界观。
+&lt;blockquote&gt;
+    &lt;p&gt;凡事都有例外&lt;/p&gt;&lt;span class=&#34;cite&#34;&gt;&lt;span&gt;― &lt;/span&gt;&lt;span&gt;高中语文老师&lt;/span&gt;&lt;cite&gt;&lt;/cite&gt;&lt;/span&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;
+    &lt;p&gt;人生处处是考场&lt;/p&gt;&lt;span class=&#34;cite&#34;&gt;&lt;span&gt;― &lt;/span&gt;&lt;span&gt;某领导&lt;/span&gt;&lt;cite&gt;&lt;/cite&gt;&lt;/span&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;
+    &lt;p&gt;Know it then hack it！&lt;/p&gt;&lt;span class=&#34;cite&#34;&gt;&lt;span&gt;― &lt;/span&gt;&lt;span&gt;tombkeeper&lt;/span&gt;&lt;cite&gt;&lt;/cite&gt;&lt;/span&gt;&lt;/blockquote&gt;&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>搜索</title>
-        <link>http://localhost:1313/search/</link>
+        <link>https://www.hackctf.com/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/search/</guid>
+        <guid>https://www.hackctf.com/search/</guid>
         <description></description>
         </item>
         
