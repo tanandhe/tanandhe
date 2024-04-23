@@ -57,6 +57,16 @@
         
         <guid>https://www.hackctf.com/test/</guid>
         <description>&lt;p&gt;this is a test page&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.hackctf.com/1713834706442.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;1713834706442&#34;
+	
+	
+&gt;&lt;/p&gt;
 </description>
         </item>
         <item>
