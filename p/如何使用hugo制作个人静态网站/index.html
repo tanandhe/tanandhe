@@ -549,6 +549,7 @@
     <li><a href="#2创建一个新站点">2.创建一个新站点</a></li>
     <li><a href="#3安装主题">3.安装主题</a></li>
     <li><a href="#4运行编译静态网站">4.运行编译静态网站</a></li>
+    <li><a href="#tips">TIPS:</a></li>
     <li><a href="#5官方文档">5.官方文档</a></li>
   </ol>
 </nav>
@@ -614,7 +615,7 @@
 
 
                 <time class="article-time--reading">
-                    阅读时长: 1 分钟
+                    阅读时长: 2 分钟
                 </time>
             </div>
         
@@ -714,6 +715,21 @@
 	
 	
 ></p>
+<h2 id="tips">
+    <a href="#tips" class="header-anchor">#</a>
+    TIPS:
+</h2><p>将域名通过CNAME解析到github pages时，需要在网站根目录下创建一个名称为“CNAME”的文件，文件内容如下：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">www.hackctf.com
+</span></span><span class="line"><span class="cl">hackctf.com
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>否则，访问tanandhe.github.io正常，访问www.hackctf.com提示404，设置完毕后需要等待1-2分钟，使得配置生效。</p>
 <h2 id="5官方文档">
     <a href="#5%e5%ae%98%e6%96%b9%e6%96%87%e6%a1%a3" class="header-anchor">#</a>
     5.官方文档
