@@ -20,24 +20,8 @@
                 href="https://www.hackctf.com/"
                 />
   </url><url>
-    <loc>https://www.hackctf.com/post/</loc>
-    <lastmod>2024-04-24T08:27:10+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://www.hackctf.com/ar/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://www.hackctf.com/post/"
-                />
-  </url><url>
-    <loc>https://www.hackctf.com/p/%E4%BD%BF%E7%94%A8docker%E9%83%A8%E7%BD%B2phpipam/</loc>
-    <lastmod>2024-04-24T08:27:10+08:00</lastmod>
-  </url><url>
     <loc>https://www.hackctf.com/categories/</loc>
-    <lastmod>2024-04-18T16:27:20+08:00</lastmod>
+    <lastmod>2024-04-24T08:27:10+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -54,14 +38,27 @@
                 href="https://www.hackctf.com/categories/"
                 />
   </url><url>
-    <loc>https://www.hackctf.com/tags/github/</loc>
-    <lastmod>2024-04-18T16:27:20+08:00</lastmod>
+    <loc>https://www.hackctf.com/categories/docker/</loc>
+    <lastmod>2024-04-24T08:27:10+08:00</lastmod>
   </url><url>
-    <loc>https://www.hackctf.com/tags/hugo/</loc>
-    <lastmod>2024-04-18T16:27:20+08:00</lastmod>
+    <loc>https://www.hackctf.com/tags/phpipam/</loc>
+    <lastmod>2024-04-24T08:27:10+08:00</lastmod>
+  </url><url>
+    <loc>https://www.hackctf.com/post/</loc>
+    <lastmod>2024-04-24T08:27:10+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://www.hackctf.com/ar/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.hackctf.com/post/"
+                />
   </url><url>
     <loc>https://www.hackctf.com/tags/</loc>
-    <lastmod>2024-04-18T16:27:20+08:00</lastmod>
+    <lastmod>2024-04-24T08:27:10+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -77,6 +74,15 @@
                 hreflang="zh-cn"
                 href="https://www.hackctf.com/tags/"
                 />
+  </url><url>
+    <loc>https://www.hackctf.com/p/%E4%BD%BF%E7%94%A8docker%E9%83%A8%E7%BD%B2phpipam/</loc>
+    <lastmod>2024-04-24T08:27:10+08:00</lastmod>
+  </url><url>
+    <loc>https://www.hackctf.com/tags/github/</loc>
+    <lastmod>2024-04-18T16:27:20+08:00</lastmod>
+  </url><url>
+    <loc>https://www.hackctf.com/tags/hugo/</loc>
+    <lastmod>2024-04-18T16:27:20+08:00</lastmod>
   </url><url>
     <loc>https://www.hackctf.com/categories/%E7%BD%91%E7%AB%99/</loc>
     <lastmod>2024-04-18T16:27:20+08:00</lastmod>
