@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Pages on hackctf</title>
-        <link>http://localhost:1313/page/</link>
+        <link>https://www.hackctf.com/page/</link>
         <description>Recent content in Pages on hackctf</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Abolo&#39;s</copyright>
-        <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://www.hackctf.com/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>归档</title>
-        <link>http://localhost:1313/archives/</link>
+        <link>https://www.hackctf.com/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/archives/</guid>
+        <guid>https://www.hackctf.com/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>Links</title>
-        <link>http://localhost:1313/links/</link>
+        <link>https://www.hackctf.com/links/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/links/</guid>
+        <guid>https://www.hackctf.com/links/</guid>
         <description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
 &lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
@@ -52,12 +52,12 @@
         </item>
         <item>
         <title>测试页面</title>
-        <link>http://localhost:1313/test/</link>
+        <link>https://www.hackctf.com/test/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/test/</guid>
+        <guid>https://www.hackctf.com/test/</guid>
         <description>&lt;p&gt;this is a test page&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/1713834706442.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://www.hackctf.com/1713834706442.png&#34;
 	
 	
 	
@@ -70,66 +70,11 @@
 </description>
         </item>
         <item>
-        <title>关于我</title>
-        <link>http://localhost:1313/%E5%85%B3%E4%BA%8E%E6%88%91/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/%E5%85%B3%E4%BA%8E%E6%88%91/</guid>
-        <description>&lt;h2 id=&#34;个人简介&#34;&gt;
-    &lt;a href=&#34;#%e4%b8%aa%e4%ba%ba%e7%ae%80%e4%bb%8b&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
-    个人简介
-&lt;/h2&gt;&lt;p&gt;网名“&lt;mark&gt;Abolo&lt;/mark&gt;”，1985年生于内蒙古巴彦淖尔，小学就读于乌海市海南区二完小；初中先后就读于海化中学、乌海市第三中学；高中毕业于乌海一中；2008年毕业于内蒙古大学自动化系。曾就职于包头钢铁集团无缝钢管厂自动化部、宁波乐惠自动化。
-&lt;/br&gt;
-现就职于某运营商，从事网络安全相关工作。
-&lt;br&gt;
-获得过&lt;mark&gt;“内蒙古自治区五一劳动奖章”&lt;/mark&gt;、&lt;mark&gt;“内蒙古自治区劳动模范”等荣誉称号&amp;quot;&lt;/mark&gt;，打工这一块我谁也不服。&lt;/p&gt;
-&lt;h2 id=&#34;个人爱好&#34;&gt;
-    &lt;a href=&#34;#%e4%b8%aa%e4%ba%ba%e7%88%b1%e5%a5%bd&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
-    个人爱好
-&lt;/h2&gt;&lt;p&gt;多年运营商级别大规模路由交换网络维护经验，熟悉计算机网络，能够熟练使用路由器交换机组网;熟悉网络安全相关技术，具备cisp、cisp-pte认证，多次在CTF比赛中获奖；熟悉linux系统的运维；了解web、数据库、中间件、虚拟化等IT技术；了解工控现场的设备和协议；熟悉机器学习、神经网络工作原理；能够使用esp32开发物联网设备；能够用golang、python开发一些简单的工具软件用来提高工作效率；
-喜欢各种鼓捣，不停的学习各种技能，深知离精通差的很多，但是够自己用.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;golang、python、HTML、单片机、数据库、工控、CNC数控机床、3D打印机、树莓派、ESP32、
-激光雕刻、机器学习、神经网络、大预言模型、routeros、Kali、docker、虚拟化、路由交换、
-网络安全、CTF、工控、PLC、fusion360、ArtCAM、Kicad、Blender、linux、攻防、
-homeassistant、node-red、proxmox、vmware、esphome、wireguard&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&#34;我的装备&#34;&gt;
-    &lt;a href=&#34;#%e6%88%91%e7%9a%84%e8%a3%85%e5%a4%87&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
-    我的装备
-&lt;/h2&gt;&lt;blockquote&gt;
-&lt;p&gt;树莓派3、4、5、zero、工业树莓派、NanoPi R2S、Nano NEO 、各种esp32开发板&lt;br&gt;
-3D打印机：Snapmaker3.0 AT&lt;br&gt;
-CNC数控机床：林大夫4060线轨&lt;br&gt;
-电烙铁、螺丝刀&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&#34;与我合作&#34;&gt;
-    &lt;a href=&#34;#%e4%b8%8e%e6%88%91%e5%90%88%e4%bd%9c&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
-    与我合作
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;1.技术顾问&lt;/li&gt;
-&lt;li&gt;2.电子电路开发&lt;/li&gt;
-&lt;li&gt;3.创业合作&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;只言片语&#34;&gt;
-    &lt;a href=&#34;#%e5%8f%aa%e8%a8%80%e7%89%87%e8%af%ad&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
-    只言片语
-&lt;/h2&gt;&lt;p&gt;“听过很多道理，依然过不好这一生”，很多道理因该是有道理的，但是却不一定能指导我们生活。
-以下只言片语不是他们的原创，但是影响到我是从他们口中开始的，是我朴素的世界观。
-&lt;blockquote&gt;
-    &lt;p&gt;凡事都有例外&lt;/p&gt;&lt;span class=&#34;cite&#34;&gt;&lt;span&gt;― &lt;/span&gt;&lt;span&gt;高中语文老师&lt;/span&gt;&lt;cite&gt;&lt;/cite&gt;&lt;/span&gt;&lt;/blockquote&gt;
-&lt;blockquote&gt;
-    &lt;p&gt;人生处处是考场&lt;/p&gt;&lt;span class=&#34;cite&#34;&gt;&lt;span&gt;― &lt;/span&gt;&lt;span&gt;某领导&lt;/span&gt;&lt;cite&gt;&lt;/cite&gt;&lt;/span&gt;&lt;/blockquote&gt;
-&lt;blockquote&gt;
-    &lt;p&gt;Know it then hack it！&lt;/p&gt;&lt;span class=&#34;cite&#34;&gt;&lt;span&gt;― &lt;/span&gt;&lt;span&gt;tombkeeper&lt;/span&gt;&lt;cite&gt;&lt;/cite&gt;&lt;/span&gt;&lt;/blockquote&gt;&lt;/p&gt;
-</description>
-        </item>
-        <item>
         <title>搜索</title>
-        <link>http://localhost:1313/search/</link>
+        <link>https://www.hackctf.com/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/search/</guid>
+        <guid>https://www.hackctf.com/search/</guid>
         <description></description>
         </item>
         

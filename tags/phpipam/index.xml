@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Phpipam on hackctf</title>
-        <link>http://localhost:1313/tags/phpipam/</link>
+        <link>https://www.hackctf.com/tags/phpipam/</link>
         <description>Recent content in Phpipam on hackctf</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Abolo&#39;s</copyright>
-        <lastBuildDate>Wed, 24 Apr 2024 08:27:10 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/phpipam/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 24 Apr 2024 08:27:10 +0800</lastBuildDate><atom:link href="https://www.hackctf.com/tags/phpipam/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>使用docker部署phpipam</title>
-        <link>http://localhost:1313/p/%E4%BD%BF%E7%94%A8docker%E9%83%A8%E7%BD%B2phpipam/</link>
+        <link>https://www.hackctf.com/p/%E4%BD%BF%E7%94%A8docker%E9%83%A8%E7%BD%B2phpipam/</link>
         <pubDate>Wed, 24 Apr 2024 08:27:10 +0800</pubDate>
         
-        <guid>http://localhost:1313/p/%E4%BD%BF%E7%94%A8docker%E9%83%A8%E7%BD%B2phpipam/</guid>
+        <guid>https://www.hackctf.com/p/%E4%BD%BF%E7%94%A8docker%E9%83%A8%E7%BD%B2phpipam/</guid>
         <description>&lt;p&gt;phpipam是一套开源的IP地址管理工具&lt;/p&gt;
 &lt;p&gt;官方网站：&lt;a class=&#34;link&#34; href=&#34;https://phpipam.net/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;phpIPAM IPAM IP address management software&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;系统使用PHP开发，官方文档安装教程基于Centos7、debian，由于安装的php扩展多，自己在Centos下反复折腾无法安装php-pear，最后放弃，而且官方的演示网站也由于php-pear扩展的问题挂掉了，因此尝试使用docker进行部署。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/1713918974442.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://www.hackctf.com/images/1713918974442.png&#34;
 	
 	
 	
@@ -42,7 +42,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;部署后docker截图：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/1713919244409.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://www.hackctf.com/images/1713919244409.png&#34;
 	
 	
 	
@@ -53,7 +53,7 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;phpipam系统截图：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/1713919292785.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://www.hackctf.com/images/1713919292785.png&#34;
 	
 	
 	
@@ -88,7 +88,7 @@
 &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nv&#34;&gt;MYSQL_ROOTPASSWORD&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; XXXXXX
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/1713919647489.png&#34;
+&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://www.hackctf.com/images/1713919647489.png&#34;
 	
 	
 	
@@ -100,7 +100,7 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;特别注意：mysql版本是8.3，部分mysql连接工具无法连接&lt;/em&gt;，比如我的navicat&lt;/p&gt;
 &lt;p&gt;登录测试没问题：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/1713920800868.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://www.hackctf.com/images/1713920800868.png&#34;
 	
 	
 	
@@ -124,7 +124,7 @@
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;设置环境变量和端口映射&lt;/p&gt;
 &lt;p&gt;如果不设置直接访问web页面也可以出现安装界面，但是选择自动安装数据库的地址默认是127.0.0.1无法修改&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/1713920246894.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://www.hackctf.com/images/1713920246894.png&#34;
 	
 	
 	
@@ -135,7 +135,7 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;访问phpipam，出现安装界面，选择1，全新安装&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/1713920907124.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://www.hackctf.com/images/1713920907124.png&#34;
 	
 	
 	
@@ -146,7 +146,7 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;选择1自动安装：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/1713920950099.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://www.hackctf.com/images/1713920950099.png&#34;
 	
 	
 	
@@ -157,7 +157,7 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;设置数据库信息：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/1713921045439.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://www.hackctf.com/images/1713921045439.png&#34;
 	
 	
 	
@@ -168,7 +168,7 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;下一步，设置管理员密码：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/1713922218934.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://www.hackctf.com/images/1713922218934.png&#34;
 	
 	
 	
@@ -179,7 +179,7 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;返回登录页面：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/1713922182869.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://www.hackctf.com/images/1713922182869.png&#34;
 	
 	
 	
@@ -190,7 +190,7 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;安装完成&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/1713922271029.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://www.hackctf.com/images/1713922271029.png&#34;
 	
 	
 	
@@ -215,7 +215,7 @@
     &lt;a href=&#34;#3-phpipam_cron%e9%83%a8%e7%bd%b2&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
     3. phpipam_cron部署
 &lt;/h2&gt;&lt;p&gt;设置环境变量，不需要映射网络，这个容器具体功能以后使用中在摸索吧，目前还没了解太明白。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/1713920324599.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://www.hackctf.com/images/1713920324599.png&#34;
 	
 	
 	
