@@ -7,10 +7,18 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Abolo&#39;s</copyright>
-        <lastBuildDate>Sun, 16 Jun 2024 17:35:37 +0800</lastBuildDate><atom:link href="https://www.hackctf.com/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 24 Sep 2024 08:46:15 +0800</lastBuildDate><atom:link href="https://www.hackctf.com/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Novnc</title>
+        <link>https://www.hackctf.com/tags/novnc/</link>
+        <pubDate>Tue, 24 Sep 2024 08:46:15 +0800</pubDate>
+        
+        <guid>https://www.hackctf.com/tags/novnc/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Proxmox</title>
         <link>https://www.hackctf.com/tags/proxmox/</link>
-        <pubDate>Sun, 16 Jun 2024 17:35:37 +0800</pubDate>
+        <pubDate>Tue, 24 Sep 2024 08:46:15 +0800</pubDate>
         
         <guid>https://www.hackctf.com/tags/proxmox/</guid>
         <description></description>
@@ -18,9 +26,17 @@
         <item>
         <title>PVE</title>
         <link>https://www.hackctf.com/tags/pve/</link>
-        <pubDate>Sun, 16 Jun 2024 17:35:37 +0800</pubDate>
+        <pubDate>Tue, 24 Sep 2024 08:46:15 +0800</pubDate>
         
         <guid>https://www.hackctf.com/tags/pve/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Websocket代理</title>
+        <link>https://www.hackctf.com/tags/websocket%E4%BB%A3%E7%90%86/</link>
+        <pubDate>Tue, 24 Sep 2024 08:46:15 +0800</pubDate>
+        
+        <guid>https://www.hackctf.com/tags/websocket%E4%BB%A3%E7%90%86/</guid>
         <description></description>
         </item>
         <item>

@@ -20,6 +20,9 @@
                 href="https://www.hackctf.com/"
                 />
   </url><url>
+    <loc>https://www.hackctf.com/tags/novnc/</loc>
+    <lastmod>2024-09-24T08:46:15+08:00</lastmod>
+  </url><url>
     <loc>https://www.hackctf.com/post/</loc>
     <lastmod>2024-09-24T08:46:15+08:00</lastmod>
     <xhtml:link
@@ -33,17 +36,14 @@
                 href="https://www.hackctf.com/post/"
                 />
   </url><url>
-    <loc>https://www.hackctf.com/p/%E5%A4%96%E9%83%A8%E7%A8%8B%E5%BA%8F%E5%A6%82%E4%BD%95%E9%80%9A%E8%BF%87novnc%E8%AE%BF%E9%97%AEproxmox%E7%9A%84%E8%99%9A%E6%8B%9F%E6%9C%BA/</loc>
+    <loc>https://www.hackctf.com/tags/proxmox/</loc>
     <lastmod>2024-09-24T08:46:15+08:00</lastmod>
   </url><url>
-    <loc>https://www.hackctf.com/tags/proxmox/</loc>
-    <lastmod>2024-06-16T17:35:37+08:00</lastmod>
-  </url><url>
     <loc>https://www.hackctf.com/tags/pve/</loc>
-    <lastmod>2024-06-16T17:35:37+08:00</lastmod>
+    <lastmod>2024-09-24T08:46:15+08:00</lastmod>
   </url><url>
     <loc>https://www.hackctf.com/tags/</loc>
-    <lastmod>2024-06-16T17:35:37+08:00</lastmod>
+    <lastmod>2024-09-24T08:46:15+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -59,6 +59,12 @@
                 hreflang="zh-cn"
                 href="https://www.hackctf.com/tags/"
                 />
+  </url><url>
+    <loc>https://www.hackctf.com/tags/websocket%E4%BB%A3%E7%90%86/</loc>
+    <lastmod>2024-09-24T08:46:15+08:00</lastmod>
+  </url><url>
+    <loc>https://www.hackctf.com/p/%E5%A4%96%E9%83%A8%E7%A8%8B%E5%BA%8F%E5%A6%82%E4%BD%95%E9%80%9A%E8%BF%87novnc%E8%AE%BF%E9%97%AEproxmox%E7%9A%84%E8%99%9A%E6%8B%9F%E6%9C%BA/</loc>
+    <lastmod>2024-09-24T08:46:15+08:00</lastmod>
   </url><url>
     <loc>https://www.hackctf.com/p/%E5%A6%82%E4%BD%95%E7%BB%99pve%E8%99%9A%E6%8B%9F%E6%9C%BA%E5%A2%9E%E5%8A%A0%E4%B8%8D%E9%99%90%E9%80%9F%E7%9A%84%E7%BD%91%E5%8D%A1/</loc>
     <lastmod>2024-06-16T17:35:37+08:00</lastmod>
