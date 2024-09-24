@@ -8,11 +8,11 @@
         <language>zh-cn</language>
         <copyright>Abolo&#39;s</copyright>
         <lastBuildDate>Wed, 24 Apr 2024 09:48:42 +0800</lastBuildDate><atom:link href="https://www.hackctf.com/tags/hugo/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>给hugo个网站增加百度统计功能</title>
-        <link>https://www.hackctf.com/p/%E7%BB%99hugo%E4%B8%AA%E7%BD%91%E7%AB%99%E5%A2%9E%E5%8A%A0%E7%99%BE%E5%BA%A6%E7%BB%9F%E8%AE%A1%E5%8A%9F%E8%83%BD/</link>
+        <title>给hugo加个网站增加百度统计功能</title>
+        <link>https://www.hackctf.com/p/%E7%BB%99hugo%E5%8A%A0%E4%B8%AA%E7%BD%91%E7%AB%99%E5%A2%9E%E5%8A%A0%E7%99%BE%E5%BA%A6%E7%BB%9F%E8%AE%A1%E5%8A%9F%E8%83%BD/</link>
         <pubDate>Wed, 24 Apr 2024 09:48:42 +0800</pubDate>
         
-        <guid>https://www.hackctf.com/p/%E7%BB%99hugo%E4%B8%AA%E7%BD%91%E7%AB%99%E5%A2%9E%E5%8A%A0%E7%99%BE%E5%BA%A6%E7%BB%9F%E8%AE%A1%E5%8A%9F%E8%83%BD/</guid>
+        <guid>https://www.hackctf.com/p/%E7%BB%99hugo%E5%8A%A0%E4%B8%AA%E7%BD%91%E7%AB%99%E5%A2%9E%E5%8A%A0%E7%99%BE%E5%BA%A6%E7%BB%9F%E8%AE%A1%E5%8A%9F%E8%83%BD/</guid>
         <description>&lt;p&gt;基于hugo的个人博客创建好了，可以添加一个百度的网站统计功能，用来了解自己博客的访问情况&lt;/p&gt;
 &lt;h2 id=&#34;1注册一个百度统计账户&#34;&gt;
     &lt;a href=&#34;#1%e6%b3%a8%e5%86%8c%e4%b8%80%e4%b8%aa%e7%99%be%e5%ba%a6%e7%bb%9f%e8%ae%a1%e8%b4%a6%e6%88%b7&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
