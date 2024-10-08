@@ -7,7 +7,31 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Abolo&#39;s</copyright>
-        <lastBuildDate>Tue, 24 Sep 2024 08:46:15 +0800</lastBuildDate><atom:link href="https://www.hackctf.com/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 08 Oct 2024 16:07:07 +0800</lastBuildDate><atom:link href="https://www.hackctf.com/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Bash</title>
+        <link>https://www.hackctf.com/tags/bash/</link>
+        <pubDate>Tue, 08 Oct 2024 16:07:07 +0800</pubDate>
+        
+        <guid>https://www.hackctf.com/tags/bash/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Ddns</title>
+        <link>https://www.hackctf.com/tags/ddns/</link>
+        <pubDate>Tue, 08 Oct 2024 16:07:07 +0800</pubDate>
+        
+        <guid>https://www.hackctf.com/tags/ddns/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Ipv6</title>
+        <link>https://www.hackctf.com/tags/ipv6/</link>
+        <pubDate>Tue, 08 Oct 2024 16:07:07 +0800</pubDate>
+        
+        <guid>https://www.hackctf.com/tags/ipv6/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Novnc</title>
         <link>https://www.hackctf.com/tags/novnc/</link>
         <pubDate>Tue, 24 Sep 2024 08:46:15 +0800</pubDate>
