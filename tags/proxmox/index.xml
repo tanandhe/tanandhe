@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Proxmox on hackctf</title>
-        <link>https://www.hackctf.com/tags/proxmox/</link>
+        <link>http://localhost:1313/tags/proxmox/</link>
         <description>Recent content in Proxmox on hackctf</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Abolo&#39;s</copyright>
-        <lastBuildDate>Tue, 24 Sep 2024 08:46:15 +0800</lastBuildDate><atom:link href="https://www.hackctf.com/tags/proxmox/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 24 Sep 2024 08:46:15 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/proxmox/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>外部程序如何通过novnc访问proxmox的虚拟机</title>
-        <link>https://www.hackctf.com/p/%E5%A4%96%E9%83%A8%E7%A8%8B%E5%BA%8F%E5%A6%82%E4%BD%95%E9%80%9A%E8%BF%87novnc%E8%AE%BF%E9%97%AEproxmox%E7%9A%84%E8%99%9A%E6%8B%9F%E6%9C%BA/</link>
+        <link>http://localhost:1313/p/%E5%A4%96%E9%83%A8%E7%A8%8B%E5%BA%8F%E5%A6%82%E4%BD%95%E9%80%9A%E8%BF%87novnc%E8%AE%BF%E9%97%AEproxmox%E7%9A%84%E8%99%9A%E6%8B%9F%E6%9C%BA/</link>
         <pubDate>Tue, 24 Sep 2024 08:46:15 +0800</pubDate>
         
-        <guid>https://www.hackctf.com/p/%E5%A4%96%E9%83%A8%E7%A8%8B%E5%BA%8F%E5%A6%82%E4%BD%95%E9%80%9A%E8%BF%87novnc%E8%AE%BF%E9%97%AEproxmox%E7%9A%84%E8%99%9A%E6%8B%9F%E6%9C%BA/</guid>
+        <guid>http://localhost:1313/p/%E5%A4%96%E9%83%A8%E7%A8%8B%E5%BA%8F%E5%A6%82%E4%BD%95%E9%80%9A%E8%BF%87novnc%E8%AE%BF%E9%97%AEproxmox%E7%9A%84%E8%99%9A%E6%8B%9F%E6%9C%BA/</guid>
         <description>&lt;h1 id=&#34;外部程序如何通过novnc访问proxmox的虚拟机&#34;&gt;
     &lt;a href=&#34;#%e5%a4%96%e9%83%a8%e7%a8%8b%e5%ba%8f%e5%a6%82%e4%bd%95%e9%80%9a%e8%bf%87novnc%e8%ae%bf%e9%97%aeproxmox%e7%9a%84%e8%99%9a%e6%8b%9f%e6%9c%ba&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
     外部程序如何通过novnc访问proxmox的虚拟机
@@ -20,7 +20,7 @@
     &lt;a href=&#34;#1-proxmox%e5%b7%a5%e4%bd%9c%e5%8e%9f%e7%90%86&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
     1. proxmox工作原理
 &lt;/h2&gt;&lt;p&gt;proxmox虚拟化平台管理界面可以通过novnc连接虚拟机，web管理页面基本都是通过api完成相关功能的，具体api文档可以点击右上角“documentation”查看：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.hackctf.com/images/1727141895203.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/1727141895203.png&#34;
 	
 	
 	
@@ -30,7 +30,7 @@
 	
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.hackctf.com/images/1727141942825.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/1727141942825.png&#34;
 	
 	
 	
@@ -42,7 +42,7 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;novnc连接的步骤如下：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;1.通过API:/api2/json/nodes/pve/qemu/105/vncproxy获取vnc的ticket&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.hackctf.com/images/1727139468856.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/1727139468856.png&#34;
 	
 	
 	
@@ -52,7 +52,7 @@
 	
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.hackctf.com/images/1727139497908.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/1727139497908.png&#34;
 	
 	
 	
@@ -63,7 +63,7 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;2.novnc通过websocket建立连接&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.hackctf.com/images/1727139584632.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/1727139584632.png&#34;
 	
 	
 	
@@ -73,7 +73,7 @@
 	
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.hackctf.com/images/1727139600354.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/1727139600354.png&#34;
 	
 	
 	
@@ -87,7 +87,7 @@
 &lt;p&gt;1.每个vnc的ticket只能建立一次连接，无论失败成功，再次使用无法建立连接报bad handshake错误&lt;/p&gt;
 &lt;p&gt;2.websocket连接请求中需要携带PVEAuthCookie,值是pve的认证ticket，proxmox系统登录后或者通过api获得（/api2/json/access/ticket）&lt;/p&gt;
 &lt;p&gt;3.连接过程中novnc需要输入密码，密码就是：vncticket的值(不能url编码)，proxmox前端自动填入密码登录，因此登录过程未出现输入密码的过程。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.hackctf.com/images/1727140823899.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/1727140823899.png&#34;
 	
 	
 	
@@ -545,7 +545,7 @@
 &lt;/div&gt;&lt;h4 id=&#34;25-novnc连接&#34;&gt;
     &lt;a href=&#34;#25-novnc%e8%bf%9e%e6%8e%a5&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
     2.5 novnc连接
-&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;https://www.hackctf.com/images/1727141277677.png&#34;
+&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/1727141277677.png&#34;
 	
 	
 	
@@ -556,7 +556,7 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;由于程序测试的缘故，需要提供路径参数，点击连接后出现密码输入框:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.hackctf.com/images/1727141376509.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/1727141376509.png&#34;
 	
 	
 	
@@ -568,7 +568,7 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;输入vncticket：PVEVNC:66F13904::KCOiBbp61SRDoRPfuJCU0dSiOTddunbMSmoNwIIlNvooFtbJO/BMscu7l61a83rr3PH8kOjvaXRxgHZRL24FvRFc5KZKLQsFcok0 rsB1QdLceiX05xVkhInHqCWbPSNKZy5j4cIzQZGCVNfFOcEZNFMSNzGJGEdxQ/6F9jYsJMvnyxIKHff90RIHtupvKWpn1Ou3pdWKX2BbnT20mHHLogxdLKlMxXbHYJ/ia/6WHKBUBaYTQwReH7K0mmSmElJXQW3iit R0FA52uMwS1sBG5Gl0WJWmWzcA8EnPV6wID0w/P 9NaG8Cd1C6XdUghsKaIj0wz0p2DJSDlfzymdLA==&lt;/p&gt;
 &lt;p&gt;连接成功&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.hackctf.com/images/1727141642833.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/1727141642833.png&#34;
 	
 	
 	
@@ -587,10 +587,10 @@
         </item>
         <item>
         <title>如何给pve虚拟机增加不限速的网卡</title>
-        <link>https://www.hackctf.com/p/%E5%A6%82%E4%BD%95%E7%BB%99pve%E8%99%9A%E6%8B%9F%E6%9C%BA%E5%A2%9E%E5%8A%A0%E4%B8%8D%E9%99%90%E9%80%9F%E7%9A%84%E7%BD%91%E5%8D%A1/</link>
+        <link>http://localhost:1313/p/%E5%A6%82%E4%BD%95%E7%BB%99pve%E8%99%9A%E6%8B%9F%E6%9C%BA%E5%A2%9E%E5%8A%A0%E4%B8%8D%E9%99%90%E9%80%9F%E7%9A%84%E7%BD%91%E5%8D%A1/</link>
         <pubDate>Sun, 16 Jun 2024 17:35:37 +0800</pubDate>
         
-        <guid>https://www.hackctf.com/p/%E5%A6%82%E4%BD%95%E7%BB%99pve%E8%99%9A%E6%8B%9F%E6%9C%BA%E5%A2%9E%E5%8A%A0%E4%B8%8D%E9%99%90%E9%80%9F%E7%9A%84%E7%BD%91%E5%8D%A1/</guid>
+        <guid>http://localhost:1313/p/%E5%A6%82%E4%BD%95%E7%BB%99pve%E8%99%9A%E6%8B%9F%E6%9C%BA%E5%A2%9E%E5%8A%A0%E4%B8%8D%E9%99%90%E9%80%9F%E7%9A%84%E7%BD%91%E5%8D%A1/</guid>
         <description>&lt;h1 id=&#34;如何给pve中的虚拟机增加不限速的网卡&#34;&gt;
     &lt;a href=&#34;#%e5%a6%82%e4%bd%95%e7%bb%99pve%e4%b8%ad%e7%9a%84%e8%99%9a%e6%8b%9f%e6%9c%ba%e5%a2%9e%e5%8a%a0%e4%b8%8d%e9%99%90%e9%80%9f%e7%9a%84%e7%bd%91%e5%8d%a1&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
     如何给PVE中的虚拟机增加不限速的网卡
@@ -606,7 +606,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;安装好后查看配置命令：ovs-vsctl show&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.hackctf.com/images/1718530725634.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/1718530725634.png&#34;
 	
 	
 	
@@ -619,7 +619,7 @@
 &lt;h2 id=&#34;2在pve中建立ovs-bridge&#34;&gt;
     &lt;a href=&#34;#2%e5%9c%a8pve%e4%b8%ad%e5%bb%ba%e7%ab%8bovs-bridge&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
     2.在PVE中建立OVS Bridge
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://www.hackctf.com/images/1718530794109.png&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/1718530794109.png&#34;
 	
 	
 	
@@ -630,7 +630,7 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;没有物理端口可以先不填&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.hackctf.com/images/1718530853792.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/1718530853792.png&#34;
 	
 	
 	
@@ -643,7 +643,7 @@
 &lt;h2 id=&#34;3在虚拟机中添加virto类型的网卡&#34;&gt;
     &lt;a href=&#34;#3%e5%9c%a8%e8%99%9a%e6%8b%9f%e6%9c%ba%e4%b8%ad%e6%b7%bb%e5%8a%a0virto%e7%b1%bb%e5%9e%8b%e7%9a%84%e7%bd%91%e5%8d%a1&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
     3.在虚拟机中添加virto类型的网卡
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://www.hackctf.com/images/1718530956050.png&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/1718530956050.png&#34;
 	
 	
 	
@@ -653,7 +653,7 @@
 	
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.hackctf.com/images/1718530937895.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/1718530937895.png&#34;
 	
 	
 	
@@ -667,7 +667,7 @@
     &lt;a href=&#34;#4%e5%a6%82%e6%9e%9c%e6%98%afwindow%e9%9c%80%e8%a6%81%e5%ae%89%e8%a3%85virtio-win%e7%9a%84%e9%a9%b1%e5%8a%a8&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
     4.如果是window需要安装virtio-win的驱动
 &lt;/h2&gt;&lt;p&gt;挂载驱动镜像&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.hackctf.com/images/1718531033901.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/1718531033901.png&#34;
 	
 	
 	
@@ -678,7 +678,7 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;在计算机管理-》设备管理中找到驱动有问题的网卡硬件，更新驱动&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.hackctf.com/images/1718531118440.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/1718531118440.png&#34;
 	
 	
 	
@@ -689,7 +689,7 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;选择浏览计算机&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.hackctf.com/images/1718531147666.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/1718531147666.png&#34;
 	
 	
 	
@@ -700,7 +700,7 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;选择光盘&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.hackctf.com/images/1718531167392.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/1718531167392.png&#34;
 	
 	
 	
@@ -715,7 +715,7 @@
     5. 成功驱动网卡
 &lt;/h2&gt;&lt;p&gt;状态显示网卡速度为100G bps&lt;/p&gt;
 &lt;p&gt;![(images/1718531247635.png)&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.hackctf.com/images/1718531273547.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/1718531273547.png&#34;
 	
 	
 	

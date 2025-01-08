@@ -2,98 +2,98 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on hackctf</title>
-        <link>https://www.hackctf.com/categories/</link>
+        <link>http://localhost:1313/categories/</link>
         <description>Recent content in Categories on hackctf</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Abolo&#39;s</copyright>
-        <lastBuildDate>Tue, 08 Oct 2024 16:07:07 +0800</lastBuildDate><atom:link href="https://www.hackctf.com/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 08 Oct 2024 16:07:07 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Bash</title>
-        <link>https://www.hackctf.com/categories/bash/</link>
+        <link>http://localhost:1313/categories/bash/</link>
         <pubDate>Tue, 08 Oct 2024 16:07:07 +0800</pubDate>
         
-        <guid>https://www.hackctf.com/categories/bash/</guid>
+        <guid>http://localhost:1313/categories/bash/</guid>
         <description></description>
         </item>
         <item>
         <title>EDA</title>
-        <link>https://www.hackctf.com/categories/eda/</link>
+        <link>http://localhost:1313/categories/eda/</link>
         <pubDate>Thu, 09 May 2024 22:45:17 +0800</pubDate>
         
-        <guid>https://www.hackctf.com/categories/eda/</guid>
+        <guid>http://localhost:1313/categories/eda/</guid>
         <description></description>
         </item>
         <item>
         <title>Hugo建站</title>
-        <link>https://www.hackctf.com/categories/hugo%E5%BB%BA%E7%AB%99/</link>
+        <link>http://localhost:1313/categories/hugo%E5%BB%BA%E7%AB%99/</link>
         <pubDate>Wed, 24 Apr 2024 09:48:42 +0800</pubDate>
         
-        <guid>https://www.hackctf.com/categories/hugo%E5%BB%BA%E7%AB%99/</guid>
+        <guid>http://localhost:1313/categories/hugo%E5%BB%BA%E7%AB%99/</guid>
         <description></description>
         </item>
         <item>
         <title>Docker</title>
-        <link>https://www.hackctf.com/categories/docker/</link>
+        <link>http://localhost:1313/categories/docker/</link>
         <pubDate>Wed, 24 Apr 2024 08:27:10 +0800</pubDate>
         
-        <guid>https://www.hackctf.com/categories/docker/</guid>
+        <guid>http://localhost:1313/categories/docker/</guid>
         <description></description>
         </item>
         <item>
         <title>网站</title>
-        <link>https://www.hackctf.com/categories/%E7%BD%91%E7%AB%99/</link>
+        <link>http://localhost:1313/categories/%E7%BD%91%E7%AB%99/</link>
         <pubDate>Thu, 18 Apr 2024 16:27:20 +0800</pubDate>
         
-        <guid>https://www.hackctf.com/categories/%E7%BD%91%E7%AB%99/</guid>
+        <guid>http://localhost:1313/categories/%E7%BD%91%E7%AB%99/</guid>
         <description></description>
         </item>
         <item>
         <title>容器</title>
-        <link>https://www.hackctf.com/categories/%E5%AE%B9%E5%99%A8/</link>
+        <link>http://localhost:1313/categories/%E5%AE%B9%E5%99%A8/</link>
         <pubDate>Thu, 18 Apr 2024 13:59:43 +0800</pubDate>
         
-        <guid>https://www.hackctf.com/categories/%E5%AE%B9%E5%99%A8/</guid>
+        <guid>http://localhost:1313/categories/%E5%AE%B9%E5%99%A8/</guid>
         <description></description>
         </item>
         <item>
         <title>物联网</title>
-        <link>https://www.hackctf.com/categories/%E7%89%A9%E8%81%94%E7%BD%91/</link>
+        <link>http://localhost:1313/categories/%E7%89%A9%E8%81%94%E7%BD%91/</link>
         <pubDate>Thu, 18 Apr 2024 13:59:43 +0800</pubDate>
         
-        <guid>https://www.hackctf.com/categories/%E7%89%A9%E8%81%94%E7%BD%91/</guid>
+        <guid>http://localhost:1313/categories/%E7%89%A9%E8%81%94%E7%BD%91/</guid>
         <description></description>
         </item>
         <item>
         <title>智能家居</title>
-        <link>https://www.hackctf.com/categories/%E6%99%BA%E8%83%BD%E5%AE%B6%E5%B1%85/</link>
+        <link>http://localhost:1313/categories/%E6%99%BA%E8%83%BD%E5%AE%B6%E5%B1%85/</link>
         <pubDate>Thu, 18 Apr 2024 13:59:43 +0800</pubDate>
         
-        <guid>https://www.hackctf.com/categories/%E6%99%BA%E8%83%BD%E5%AE%B6%E5%B1%85/</guid>
+        <guid>http://localhost:1313/categories/%E6%99%BA%E8%83%BD%E5%AE%B6%E5%B1%85/</guid>
         <description></description>
         </item>
         <item>
         <title>Test</title>
-        <link>https://www.hackctf.com/categories/test/</link>
+        <link>http://localhost:1313/categories/test/</link>
         <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
         
-        <guid>https://www.hackctf.com/categories/test/</guid>
-        <description>&lt;img src="https://www.hackctf.com/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;&lt;p&gt;this is a test&lt;/p&gt;
+        <guid>http://localhost:1313/categories/test/</guid>
+        <description>&lt;img src="http://localhost:1313/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;&lt;p&gt;this is a test&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>测试</title>
-        <link>https://www.hackctf.com/categories/%E6%B5%8B%E8%AF%95/</link>
+        <link>http://localhost:1313/categories/%E6%B5%8B%E8%AF%95/</link>
         <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
         
-        <guid>https://www.hackctf.com/categories/%E6%B5%8B%E8%AF%95/</guid>
+        <guid>http://localhost:1313/categories/%E6%B5%8B%E8%AF%95/</guid>
         <description></description>
         </item>
         <item>
         <title>技术</title>
-        <link>https://www.hackctf.com/categories/%E6%8A%80%E6%9C%AF/</link>
+        <link>http://localhost:1313/categories/%E6%8A%80%E6%9C%AF/</link>
         <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
         
-        <guid>https://www.hackctf.com/categories/%E6%8A%80%E6%9C%AF/</guid>
+        <guid>http://localhost:1313/categories/%E6%8A%80%E6%9C%AF/</guid>
         <description></description>
         </item>
         
